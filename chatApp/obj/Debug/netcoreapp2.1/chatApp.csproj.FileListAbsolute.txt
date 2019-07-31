@@ -1,0 +1,11 @@
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\bin\Debug\netcoreapp2.1\chatApp.deps.json
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\bin\Debug\netcoreapp2.1\chatApp.runtimeconfig.json
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\bin\Debug\netcoreapp2.1\chatApp.runtimeconfig.dev.json
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\bin\Debug\netcoreapp2.1\chatApp.dll
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\bin\Debug\netcoreapp2.1\chatApp.pdb
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\obj\Debug\netcoreapp2.1\chatApp.csprojResolveAssemblyReference.cache
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\obj\Debug\netcoreapp2.1\chatApp.csproj.CoreCompileInputs.cache
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\obj\Debug\netcoreapp2.1\chatApp.AssemblyInfoInputs.cache
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\obj\Debug\netcoreapp2.1\chatApp.AssemblyInfo.cs
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\obj\Debug\netcoreapp2.1\chatApp.dll
+C:\Users\tsharma\Desktop\chat\chatApp\chatApp\obj\Debug\netcoreapp2.1\chatApp.pdb
